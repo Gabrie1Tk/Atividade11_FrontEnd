@@ -1,8 +1,8 @@
-# 💻 Portfólio - Atividade 11 Front-End
+# Portfólio - Atividade 11 Front-End
 
 Este repositório contém o resultado da **11ª Atividade Prática** de Front-End. O projeto consiste no desenvolvimento de um site de portfólio multipáginas, focado na estruturação semântica e estilização avançada com CSS.
 
-## 🌐 Visualização Online
+## Visualização Online
 
 Acesse o projeto publicado no GitHub Pages:
 
@@ -10,7 +10,7 @@ Acesse o projeto publicado no GitHub Pages:
 
 > **Link:** https://gabrie1tk.github.io/Atividade11_FrontEnd/
 
-## 📄 Sobre o Projeto
+## Sobre o Projeto
 
 O site foi desenvolvido para aplicar conceitos de navegação e consistência visual entre páginas. Ele é dividido em:
 
@@ -22,12 +22,12 @@ O site foi desenvolvido para aplicar conceitos de navegação e consistência vi
 * **Navegação:** Links funcionais entre a "Home" e o "Portfólio" através do menu de navegação (`<header>`).
 * **Estilização:** Uso de variáveis de cores, importação de fontes externas (Google Fonts: *Krona One* e *Montserrat*) e classes reutilizáveis.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **HTML5:** Estrutura semântica (`main`, `footer`, `nav`).
 * **CSS3:** Estilização responsiva e layout flexível (`style.css` e `style_portfolio.css`).
 
-## 📂 Como Rodar Localmente
+## Como Rodar Localmente
 
 1.  **Clone o repositório:**
     ```bash
@@ -41,6 +41,3 @@ O site foi desenvolvido para aplicar conceitos de navegação e consistência vi
 ## Autor
 
 Desenvolvido por **[Gabriel Takao](https://github.com/Gabrie1Tk)**.
-
----
-*Atividade prática do curso de HTML e CSS.*
